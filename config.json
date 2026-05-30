@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggeretringify",
+        "uuid": 8495800,
+        "checksum": "lbh4jh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
